@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/097f7e9b-b685-467f-b0c3-c17f09a1071f.svg)](https://wakatime.com/@097f7e9b-b685-467f-b0c3-c17f09a1071f?style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/097f7e9b-b685-467f-b0c3-c17f09a1071f.svg?style=for-the-badge)](https://wakatime.com/@097f7e9b-b685-467f-b0c3-c17f09a1071f)
 <!--
 **zeroxkitakitsune/zeroxkitakitsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
