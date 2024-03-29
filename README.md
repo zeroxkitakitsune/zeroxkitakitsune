@@ -1,7 +1,7 @@
 
 ![counter](https://moe-counter.glitch.me/get/@zeroxkitakitsune?theme=asoul)
 
-[![wakatime](https://wakatime.com/badge/user/097f7e9b-b685-467f-b0c3-c17f09a1071f.svg?style=for-the-badge)](https://wakatime.com/@097f7e9b-b685-467f-b0c3-c17f09a1071f)
+[![wakatime](https://wakatime.com/badge/user/097f7e9b-b685-467f-b0c3-c17f09a1071f.svg?style=social)](https://wakatime.com/@097f7e9b-b685-467f-b0c3-c17f09a1071f)
 <!--
 **zeroxkitakitsune/zeroxkitakitsune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
